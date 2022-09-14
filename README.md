@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a meet-up project. Where users can schedule appointments
+This is a meet-up app. Where users can schedule appointments
 
 ## Technologies
 
