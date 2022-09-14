@@ -8,7 +8,7 @@ This is a meet-up project. Where users can schedule appointments
 
 - HTML
 - JavaScript
-- EJS
+- React
 
 # To install dependencies
 
